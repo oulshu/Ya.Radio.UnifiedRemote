@@ -1,1 +1,1 @@
-# Ya.Radio.UnifiedRemote
+# Пульт Yandex.Radio\Music для UnifiedRemote
