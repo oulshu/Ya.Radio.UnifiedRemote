@@ -1,2 +1,1 @@
-Пульт #Yandex.Radio\Music 
-для UnifiedRemote
+#  Пульт Яндекс.Радио(Музыка) для UnifiedRemote
