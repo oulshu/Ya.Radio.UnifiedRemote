@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<layout onLaunch="launch" onVolumeUp="volume_up" onVolumeDown="volume_down" color="#FF2B35">
+  <grid>
+    <row>
+      <button icon="vdown" onTap="volume_down" />
+      <button icon="vup" onTap="volume_up" />
+    </row>
+    <row>
+      <button icon="previous" onTap="previous" />
+      <button icon="next" onTap="next" />
+    </row>
+    <row>
+      <button icon="thumbsdown" onTap="dislike" />
+      <button icon="thumbsup" onTap="like" />
+    </row>
+    
+    <row>
+      <button icon="vmute" onTap="mute" />
+      <button icon="playpause" onTap="play_pause" />
+    </row>
+  </grid>
+</layout>
